@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Administrator\Desktop\android_studio\Fisheater\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_05542653ef4d3bcc33da22689537b214cfde84e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\android_studio\Fisheater\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="14e2ffe3cd0c2d06d8119216aaadfc105f5b60c8">
+        <dex dex="C:\Users\Administrator\Desktop\android_studio\Fisheater\app\build\intermediates\pre-dexed\debug\instant-run_571b96d3d866796dd29d64c9d2faae73a6829420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\android_studio\Fisheater\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="82370bd772bac1f8a9416db4b7d5c777712fad20">
+        <dex dex="C:\Users\Administrator\Desktop\android_studio\Fisheater\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_83d94bfbc0435dbd7584fe767efe47ce092fc849.jar" />
+    </item>
+
+</items>
